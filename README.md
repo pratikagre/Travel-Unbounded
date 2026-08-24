@@ -4,9 +4,9 @@ Travel Unbounded is a full-stack, responsive travel agency website built using *
 
 ---
 
-## 🚀 Live Demo & Repository
+## 🚀 Live Demo 
 - **Live Deployed App (Vercel):** [https://travel-unbounded.vercel.app](https://travel-unbounded.vercel.app) *(or your Vercel deployment link)*
-- **GitHub Repository:** [https://github.com/pratikagre/Talk-a-Tive](https://github.com/pratikagre/Talk-a-Tive)
+
 
 ---
 
